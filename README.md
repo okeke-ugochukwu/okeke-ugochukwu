@@ -5,6 +5,7 @@
   <samp>
     Frontend Developer with over 5 years of experience building functional software — expert in pixel-perfect implementations and advanced creative coding. <br> (interactive animations and seamless motion effects) <br>
     <a href="#">Website (WIP)</a> .
+    <a href="https://github.com/okeke-ugochukwu/okeke-ugochukwu/blob/main/ugo_rts.pdf/">Resume</a> .
     <a href="https://twitter.com/thecavydev">Twitter</a> .
     <a href="https://linkedin.com/in/ugochukwuokeke/">LinkedIn</a>
   </samp>
